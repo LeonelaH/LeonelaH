@@ -1,4 +1,6 @@
-## Hi there 👋
+👋 ¡Hola! Soy Leonela Huanca
+
+Soy estudiante de la Tecnicatura en Programación, con interés en el desarrollo web y la optimización de aplicaciones. Me motiva seguir aprendiendo nuevas tecnologías y aplicar buenas prácticas en cada proyecto.Mi objetivo es desarrollarme como profesional en el área del software. 🚀
 
 <!--
 **LeonelaH/LeonelaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
